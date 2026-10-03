@@ -114,7 +114,7 @@ export default function About() {
                 Who I Am
               </h3>
               <p className="text-slate-600 dark:text-slate-300 leading-relaxed text-sm sm:text-base">
-                Over the past 5+ years, I have architected and deployed enterprise data platforms handling tens of terabytes daily. My focus is building robust, fault-tolerant pipelines that seamlessly bridge raw operational data with high-performance analytics and machine learning.
+                Over the past 2+ years, I have architected and deployed enterprise data platforms handling tens of terabytes daily. My focus is building robust, fault-tolerant pipelines that seamlessly bridge raw operational data with high-performance analytics and machine learning.
               </p>
               <p className="text-slate-600 dark:text-slate-300 leading-relaxed text-sm sm:text-base">
                 From high-throughput event streaming with Apache Kafka and Spark, to modern lakehouses using Delta Lake, dbt, and Snowflake, I ensure data arrives on time, fully tested, and queryable with sub-second performance.
